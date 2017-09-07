@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>a_crisp</name>
+    <displayName><![CDATA[Crisp - Chat Gratu&iacute;to]]></displayName>
+    <version><![CDATA[1.0]]></version>
+    <description><![CDATA[Permite que seu consumidor entre em contato diretamente com seu atendimento atrav&eacute;s de um chat flutuante em seu site.&lt;a href=&quot;https://www.prestafy.com.br/&quot;&gt;Prestafy&lt;/a&gt;]]></description>
+    <author><![CDATA[Prestafy]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

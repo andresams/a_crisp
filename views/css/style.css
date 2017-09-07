@@ -1,0 +1,56 @@
+.crisp-modal .crisp-button {
+  border: 0 none;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  padding: 14px 30px 15px;
+  cursor: pointer;
+  border-radius: .25rem;
+  width: 200px;
+  margin-bottom: 12px;
+  display: block;
+}
+
+.crisp-modal .crisp-button..crisp-success {
+  color: #fff;
+  background: #2ab27b;
+  text-shadow: 0 1px 1px rgba(0,0,0,.1);
+}
+
+.crisp-modal .crisp-button.crisp {
+  color: #fff;
+  background: #308AD6;
+  text-shadow: 0 1px 1px rgba(0,0,0,.1);
+}
+
+.crisp-modal .crisp-button.crisp-neutral, .crisp-modal .crisp-button.crisp-error {
+  color: #555459;
+  border: 1px solid #C7CACD;
+  background: #fbfbfa;
+}
+
+.crisp-title {
+  color: #555459;
+  font-size: 22px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.crisp-subtitle {
+  color: #555459;
+  font-size: 16px;
+  font-weight: normal;
+  margin: 12px 0 26px;
+}
+
+.crisp-subtitle {
+  color: #555459;
+  font-size: 16px;
+  font-weight: normal;
+  margin: 12px 0 26px;
+}
+
+.crisp-notice {
+  font-size: 14px;
+  margin: 12px 0 26px;
+}
