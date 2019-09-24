@@ -1,4 +1,3 @@
-# Crisp Livechat
 # Crisp — Livechat for PrestaShop 1.7.x
 
 Discover our Customer Messaging Platform for Startups & SMB's. The one stop for sales, marketing & support in one software, now available for PrestaShop.
